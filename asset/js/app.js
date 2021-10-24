@@ -43,6 +43,6 @@ function toggleDropDown (){
     }
     else { 
         dropdownItems.style.display = "none";
-        this.lastElementChild.style.transform =  "rotate(180deg)";
+        this.lastElementChild.style.transform =  "rotate(270deg)";
     }
 }
