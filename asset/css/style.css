@@ -241,6 +241,10 @@ header:after {
   border-bottom: 2px solid #fcfcfc;
   padding: 8px;
 }
+.list-style-none a {
+  text-decoration: none;
+  color: #888888;
+}
 .active a {
   color: #ffffff;
 }
